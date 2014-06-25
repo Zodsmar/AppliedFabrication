@@ -1,0 +1,20 @@
+[
+{
+  "modid": "AppliedFabrication",
+  "name": "Applied Fabrication",
+  "description": "Anything to do with Automation and the creation of and item from another item!",
+  "version": "1.0",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Zodsmar"
+  ],
+  "credits": "Pahimar and Mr_TJP for Open Source Code",
+  "logoFile": "/assets/appliedfabrication/textures/logo/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
