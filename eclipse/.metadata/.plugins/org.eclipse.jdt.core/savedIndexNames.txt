@@ -30,7 +30,6 @@ INDEX VERSION 1.126+C:\Users\Alexander\Desktop\Programming\Modding\1.7\AppliedFa
 1485391414.index
 2069483318.index
 3905331667.index
-286606776.index
 3649529138.index
 4033638999.index
 4113404590.index
