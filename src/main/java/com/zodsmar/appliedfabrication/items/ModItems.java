@@ -1,6 +1,6 @@
 package com.zodsmar.appliedfabrication.items;
 
-public class Items
+public class ModItems
 {
 	/* Register ID's */
 	public static void init()

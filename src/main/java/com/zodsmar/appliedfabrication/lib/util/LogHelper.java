@@ -1,7 +1,9 @@
-package com.zodsmar.appliedfabrication.lib;
+package com.zodsmar.appliedfabrication.lib.util;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import com.zodsmar.appliedfabrication.lib.reference.ModInfo;
 
 import cpw.mods.fml.common.FMLLog;
 

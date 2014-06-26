@@ -1,6 +1,6 @@
 package com.zodsmar.appliedfabrication.blocks;
 
-public class Blocks
+public class ModBlocks
 {
 	/* Register ID's */
 	public static void init()
